@@ -1,4 +1,3 @@
-#include <stdio.h>
 # define size 10
 int array[size] = {3,6,9,12,15,18,21,24,27,30}; 
 
