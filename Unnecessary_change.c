@@ -35,6 +35,5 @@ int change(int *a,int b)
 int main()
 {
     int A = change(array,size);
-    printf("%d", A);
     return A;
 };
